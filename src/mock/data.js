@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "I'm a positive and enthusiastic self-motivated learner, teaching myself to code over the last year and looking to gain professional experience.",
   paragraphTwo:
-    "I have worked in the Music Industry for the last 6 years as a Member Service Representative, dealing with member queries and solving complex music copyright queries. I aim to transfer the skills I've gained from a Career in the Music Industry over to the tech industry.",
+    "I have worked in the Music Industry for the last 6 years as a Member Service Representative, dealing with member queries and solving complex music copyright queries. I aim to transfer the skills I've gained from a career in the Music Industry over to the tech industry.",
   paragraphThree:
     'Outside of coding, my hobbies include Martial Arts - Kickboxing and Brazilian Jiu Jitsu, and tabletop roleplaying games.',
   resume: '', // if no resume, the button will not show up
