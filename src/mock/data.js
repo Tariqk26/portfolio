@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'brighton-bjj-school.PNG',
     title: 'Brighton BJJ School',
     info: 'I built a website for my Jiu Jitsu club in Brighton, using React and Styled-Components.',
     info2:
