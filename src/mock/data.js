@@ -31,6 +31,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'dang thats delicious.JPG',
+    title: "Dang That's Delicious",
+    info: "I created this Node App using Mongo DB and Express to create a website which has information on restaurants and coffee shops. This is from Wes Bos's Learn Node Course",
+    info2:
+      'The user can add data via a form which is stored in the database. This taught me alot about using async functions in Node.js',
+    url: 'https://dang-thats-delicious.herokuapp.com/',
+    repo: 'https://github.com/Tariqk26/dang-thats-delicious', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'brighton-bjj-school.PNG',
     title: 'Brighton BJJ School',
     info: 'I built a website for my Jiu Jitsu club in Brighton, using React and Styled-Components.',
@@ -48,16 +58,6 @@ export const projectsData = [
       'Some of my favourite projects from this are the Speech Recognition Chrome Web App, the JavaScript DrumKit and the Whack a Mole Game.',
     url: 'https://tariqk26.github.io/JavaScript30/',
     repo: 'https://github.com/Tariqk26/JavaScript30', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'dang thats delicious.JPG',
-    title: "Dang That's Delicious",
-    info: "I created this Node App using Mongo DB and Express to create a website which has information on restaurants and coffee shops. This is from Wes Bos's Learn Node Course",
-    info2:
-      'The user can add data via a form which is stored in the database. This taught me alot about using async functions in Node.js',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 ];
 
